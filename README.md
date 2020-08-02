@@ -2,6 +2,10 @@
 <br>
 <br>
 👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python Full Stack Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>open source</b>.
+
+<br>
+<br>
+
 <ul>
     <li>
         <b>🏠 Location:</b> Cracow, 🇵🇱 Poland
@@ -14,6 +18,9 @@
     </li>
 <ul>
 
+
+<br>
+<br>
 
 ### ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-331111?style=flat-square&logo=Python)
