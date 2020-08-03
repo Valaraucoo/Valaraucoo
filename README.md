@@ -1,6 +1,4 @@
 <br>
-<br>
-<br>
 👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python Full Stack Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>open source</b>.
 
 <br>
@@ -11,7 +9,7 @@
         <b>🏠 Location:</b> Cracow, 🇵🇱 Poland
     </li>
     <li>
-        <b>🎓 Education:</b> Computer Science, <a href="https://www.agh.edu.pl/">AGH UST</a>
+        <b>🎓 Education:</b> Computer Science (2018 - present), <a href="https://www.agh.edu.pl/">AGH UST</a>
     </li>
     <li>
         <b>⛰️ Hobbies:</b> 🏋️‍♂️ gym, 🎵 music & 🍺 beer
