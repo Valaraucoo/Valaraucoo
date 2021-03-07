@@ -1,5 +1,5 @@
 <br>
-👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python Full Stack Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>open source</b>.
+👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python (backend) Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>open source</b>.
 
 <br>
 <br>
@@ -28,8 +28,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-331111?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-331111?style=flat-square&logo=css3)
 ![Django](https://img.shields.io/badge/-Django-331111?style=flat-square&logo=django)
-![Keras](https://img.shields.io/badge/-Keras-331111?style=flat-square&logo=keras)
-![Laravel](https://img.shields.io/badge/-Laravel-331111?style=flat-square&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-331111?style=flat-square&logo=git)
 
 
@@ -39,4 +37,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Valaraucoo&show_icons=true&hide_border=true">
 
 
-**[Website](https://kamilwozniak.netlify.app/) - [LinkedIn](https://www.linkedin.com/in/kamil-woźniak-95332717b/) - [Email](mailto:jestem.kamil.wozniak@gmail.com)**
+**[Website](https://kamilwozniak.netlify.app/) - [LinkedIn](https://www.linkedin.com/in/kamilwozniak/) - [Email](mailto:jestem.kamil.wozniak@gmail.com)**
