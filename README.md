@@ -1,5 +1,5 @@
 <br>
-👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python (backend) Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>open source</b>.
+👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python (backend) Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>web security</b>.
 
 <br>
 <br>
