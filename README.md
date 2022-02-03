@@ -1,5 +1,5 @@
 <br>
-👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm 🐍Python (backend) Developer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>web security</b>.
+👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm Software Engineer from Cracow, Poland. I’m passionate about <b>machine learning</b>, <b>artificial intelligence</b>, <b>software development</b> and <b>web security</b>.
 
 <br>
 <br>
@@ -9,7 +9,7 @@
         <b>🏠 Location:</b> Cracow, 🇵🇱 Poland
     </li>
     <li>
-        <b>🎓 Education:</b> Computer Science (2018 - present), <a href="https://www.agh.edu.pl/">AGH UST</a>
+        <b>🎓 Education:</b>Bachelor of Computer Science (2018 - 2022), <a href="https://www.agh.edu.pl/">AGH UST</a>
     </li>
     <li>
         <b>⛰️ Hobbies:</b> 🏋️‍♂️ gym, 🎵 music & 🍺 beer
