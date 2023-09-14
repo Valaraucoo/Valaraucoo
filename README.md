@@ -1,5 +1,5 @@
 <br>
-👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm Software Engineer from Cracow, Poland. I’m passionate about <b>AI/ML</b>, <b>software design</b>, <b>cloud native architecture</b> and <b>web security</b>.
+👋 Hey there, my name is <b>Kamil Woźniak</b>, currently I'm Software Engineer from Cracow, Poland. I’m passionate about <b>Software Architecture (mainly cloud native)</b>, <b>Site Reliability Engineering and Application Monitoring</b>, <b>Web apps security</b> and <b>Artificial Intelligence</b>.
 
 <br>
 
